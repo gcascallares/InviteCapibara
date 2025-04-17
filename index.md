@@ -112,7 +112,7 @@
                     <div class="detail-box">
                       <h1>Geral te invita a su cumpleaños!</h1>
                       <h2>
-                        Veni a festejar con nosotros el dia xx/xx desde las 00:00 hasta las 00:00.
+                        Veni a festejar con nosotros el dia 17/05 desde las 00:00 hasta las 00:00.
                       </h2>
                       <div class="btn-box">
                         <audio
@@ -131,7 +131,7 @@
                   </div>
                   <div class="col-md-6">
                     <div class="img-box">
-                      <img src="images/slider3.gif" alt="" />
+                      <img src="images/slider2.gif" alt="" />
                     </div>
                   </div>
                 </div>
